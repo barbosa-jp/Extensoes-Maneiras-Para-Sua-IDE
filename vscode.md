@@ -234,7 +234,7 @@ Um Notebook Jupyter é um ambiente computacional web para a para criação de do
 
 ## Git Graph
 
-Visualize um gráfico dos comandos Git do seu repositório e execute facilmente c omandos Git apartir dele. Gráfico configurável para se adequar com seu gosto.
+Visualize um gráfico dos comandos Git do seu repositório e execute facilmente comandos Git a partir dele. Gráfico configurável para se adequar com seu gosto.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ![Tabnine](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
